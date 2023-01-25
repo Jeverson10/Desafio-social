@@ -15,9 +15,10 @@ main{
     height: 100vh;
     background-color: black;
     position: relative;
-    background-image: url('../images/fundo-madeira.jpg');
-    background-repeat: no-repeat;
+    background: url('../images/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
+    
+    
     
 }
 
