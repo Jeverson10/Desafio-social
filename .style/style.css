@@ -64,4 +64,6 @@ section#redes-sociais img:hover{
 
 }
 
-section#redes-sociais
+section#redes-sociais a{
+    width: 50px;
+}
